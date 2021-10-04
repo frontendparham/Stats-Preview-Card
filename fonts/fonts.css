@@ -1,0 +1,30 @@
+/* --------------------------------------- */
+/* UBUNTU FONT 300, 400, 700 */
+/* --------------------------------------- */
+
+@font-face {
+  font-family: Ubuntu;
+  src: url("Ubuntu-Light.ttf");
+  src: url("Ubuntu-Light.ttf?#iefix") format("embedded-opentype"),
+    url("Ubuntu-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Ubuntu;
+  src: url("Ubuntu-Regular.ttf");
+  src: url("Ubuntu-Regular.ttf?#iefix") format("embedded-opentype"),
+    url("Ubuntu-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Ubuntu;
+  src: url("Ubuntu-Bold.ttf");
+  src: url("Ubuntu-Bold.ttf?#iefix") format("embedded-opentype"),
+    url("Ubuntu-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
